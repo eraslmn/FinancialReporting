@@ -51,6 +51,4 @@ The dashboard includes interactive filters, particularly **date slicers**, enabl
 Power BI `.pbix` files cannot be previewed directly on GitHub.  
 To view the interactive dashboard, download the `.pbix` file and open it in **Power BI Desktop**.
 
----
-To view the interactive dashboard, download the `.pbix` file and open it in **Power BI Desktop**.
 
